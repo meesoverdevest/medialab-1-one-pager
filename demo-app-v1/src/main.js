@@ -3,8 +3,15 @@
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import * as VueGoogleMaps from 'vue2-google-maps'
+import VCalendar from 'v-calendar'
 
+import 'v-calendar/lib/v-calendar.min.css';
 import 'material-design-icons-iconfont/dist/material-design-icons.css'
+
+import App from './App'
+import router from './router'
+
+import 'vuetify/dist/vuetify.min.css'
 
 Vue.use(VueGoogleMaps, {
   load: {
@@ -13,18 +20,24 @@ Vue.use(VueGoogleMaps, {
     // Enable more Google Maps libraries here
     libraries: ['places'],
   },
-})
+});
 
 Vue.use(Vuetify, {
   iconfont: 'md'
 })
 
-import App from './App'
-import router from './router'
+Vue.use(VCalendar, {
+  firstDayOfWeek: 2,
+  formats: {
+    title: 'MMMM YYYY',
+    weekdays: 'W',
+    navMonths: 'MMM',
+    input: ['L', 'DD-MM-YYYY', 'DD/MM/YYYY'],
+    dayPopover: 'L',
+  }
+})
 
 Vue.config.productionTip = false
-
-import 'vuetify/dist/vuetify.min.css'
 
 /* eslint-disable no-new */
 new Vue({

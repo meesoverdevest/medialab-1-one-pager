@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medialab-1-233820",
+  "private_key_id": "943caa4aa5f6aca4c0b0fdf8e05c20d802288487",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn4Zn2hjPIN1Yo\nL2PhjHIuSwwfpAZHZBp0r7AA9bYpuOpHP7Qzki57oLwLeCN3IrqKr6GNG/ethEhP\nupDWvLpnn9Nyd3yAlUVusjJcrTKsPZq6o23W+A3823tqaIC3OmMQrgRfB75z13ad\ndsDKc5tXQcNNViEad1VZ5ORhKTX//rJwo/bHb1peFNLO5mEdHERGBIo4/zID2040\nZWoH9Ag0UIYscvwu86hc41O8o20+k3XK1vl/mD9mvIu0ds9T/FgYHEf2QWEIQNMw\nLTDbVF4rfHwiRp0C1dn4VX9S1DkMD0fWfi1KPxNeSFhA7fYtTayRpQbD4kg3j2M4\nILAeJ7XbAgMBAAECggEAB/vsUC0eiVPlMd2otZe+vM57S4XuRoO11/02NNV6tFrd\nYxLeHxXBecYX+CbeiOvxGZqaTeIZ0i0lKaWI/eCiSaTwPKFlUNHIjsGRMGPyscsi\no+QVDtD9P7YW4hijBnotLyRKt1PgjhUEYlJWsn1Z0rlUVt+hwDOsrqz6fFemM2Z1\nqD2Vbpn2SvVqTNg0B51gbOQ4ApKn089rRPYzFOG6eF2IeMqH6pbSrhUqZGHNqNB+\n14e0GUDVB75R+eGjuxus7IQrgUvWa7iEAo+OT8bqtHhF09ILA5+HRqCej5ZmI2fM\nEmmSiUiWwf2aciy3vTkAh2wg+uqRw6aaiJvch3A9AQKBgQDreCv9BuevAh0pEZSc\nqYGxCh2hxb90LUZSZRbX/zb6q6IzuleFhzoevMgjHDyKRhO24H4klgoKxFHJWp1G\nToHWYMooWK+0s1mhrJiy0CNzTsLYKtf07rEwQBs+z6TBAHZqYMwdJJpt7c3jAs4u\nZNcXoOwlNGWzglx/zv96emxe5QKBgQC2hNGHu5X8bvsscfF/mqaH4JSAVfynOqbu\nkjV3XcOtS9Wtp73WKz7BeAlo4JU9kJGD6Dt9kq2fsR+UNQTWCTT8DKbitvyJzigi\nrI1S/miQ04tTEmIi4d1UDlBt9zae7YpzwCO590JX0q7Kro3hxo//na2td2idhwqP\noaOtvxG1vwKBgG5tsjt81ITHugM7onWCLTdo5hKrGamTXgpgLEFqCE+w1GXr+wW9\nMG2f3UBSCrZSPQaj66Se1ODNxwlmPKHvSYbPZ59aUDSvc9aVihs575YxFsGn/hV5\nJ5HYTq67VKnK3L3w3WjBdMcfIlJXS3iIhDMpnfWoyBVSiqzJ2BiJd29dAoGAKIm/\ncAI+Ad80cl6sYMccjblXwllW0F26jepzbZupxme9geBrzZG1Uosyq9SV0SK27zE5\nZV6aqYlRlj1gYZmR5xl4R4qU9JaRW4IvsWtIFkKmA0FmApFf8zdqrcHmo83mnmbi\niH9egNsOb33tjWPov8Fpvclztukzc0tXa1Owv0kCgYApFXxBfyiRwL3V9Fc08HGW\nNCx5f/bz3WznuwMrxTO9kQ1fVmaytPQRGaiSqrTLq7/m6svO/qVoEABOMKxB8Fmw\n0p6P2KHhecAl1c+zj3S8EHktM7RltMZatZHqUExaYQeFCrDDvtwCOqTWOEA+3seB\n95G6/mFHyBEfcNrNIop4wg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aso-17@medialab-1-233820.iam.gserviceaccount.com",
+  "client_id": "102730271402883116808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aso-17%40medialab-1-233820.iam.gserviceaccount.com"
+}
