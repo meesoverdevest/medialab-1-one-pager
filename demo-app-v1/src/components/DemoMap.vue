@@ -115,14 +115,18 @@
       //   this.addImageLayer();
       // });
 
-      console.log('asd')
+      
 
       // ee.data.authenticate(this.CLIENT_ID, this.addImageLayer(), null, null, this.onImmediateFailed());
 
       // Authenticate using an OAuth pop-up.
-      // ee.data.authenticateViaPrivateKey("../assets/medialab-1-233820-943caa4aa5f6.json");
+      
+      // ee.data.authenticateViaPrivateKey("../assets/medialab-1-233820-943caa4aa5f6.json", this.addImageLayer());
+
       // ee.data.authenticateViaOauth("309326416919-13rm9igoc842ukq7d4afgd3380rbt7lg.apps.googleusercontent.com");
-      // ee.data.authenticateViaPopup(this.CLIENT_ID);
+
+      // ee.data.authenticateViaPopup(this.addImageLayer());
+
       // this.addImageLayer();
       // ee.initialize();
       //   , this.initialize(), function(e) {
@@ -144,28 +148,18 @@
           {
             title: "Infrarood", 
             value: false,
-            color: "green"
+            color: "red"
           },
           {
             title: "UV", 
             value: false,
-            color: "red"
+            color: "purple"
           },
           {
             title: "Radar", 
             value: false,
             color: "blue"
-          },
-          {
-            title: "Band 4", 
-            value: false,
-            color: "yellow"
-          },
-          {
-            title: "Band 5", 
-            value: false,
-            color: "orange"
-          },
+          }
         ],
         myRange: null,
         calendar_attrs: [
@@ -246,9 +240,9 @@
       },
       onImmediateFailed() {
         console.log(ee);
-        ee.data.authenticateViaOauth(this.client, () => {
-          this.addImageLayer();
-          console.log('asdasdasd')
+        ee.data.authenticateViaPopup(this.client, (data) => {
+          console.log(data)
+            this.addImageLayer()
         });
         console.log('got here again')
       },
@@ -257,10 +251,11 @@
           lat: location.lat(),
           lng: location.lng(),
         }
-        
-        ee.data.authenticate(this.CLIENT_ID, this.addImageLayer(), null, null, () => console.log('failure'));
+        this.onImmediateFailed()
+        ee.data.authenticate(this.client, this.addImageLayer(), null, null, this.onImmediateFailed());
       },          
       addImageLayer() {
+        console.log("here")
         ee.initialize();
 
         var image = ee.Image('COPERNICUS/S2/20150706T105016_20150706T105351_T31UFT').getMap({bands: ['B1', 'B4', 'B3'], max: 4000});

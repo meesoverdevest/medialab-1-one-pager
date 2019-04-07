@@ -1,0 +1,15 @@
+{
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js --exec babel-node --presets es2015"
+	},
+  "dependencies": {
+    "@google/earthengine": "^0.1.173",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "nodemon": "^1.18.10"
+  }
+}
