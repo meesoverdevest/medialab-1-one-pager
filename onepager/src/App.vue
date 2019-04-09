@@ -12,7 +12,7 @@
             justify-center
             class="white--text"
           >
-            <h1 class="white--text mb-2 display-1 text-xs-center">KROOSMASTER PRO PLUS</h1>
+            <h1 class="white--text mb-2 display-1 text-xs-center">KROOSMASTER</h1>
             <div class="subheading mb-3 text-xs-center font-weight-medium">Voorkom sterfte van flora en fauna met behulp van onze preventieve software!</div>
             <v-btn
               class="green lighten-1 mt-5"
@@ -30,8 +30,7 @@
         <v-layout column wrap class="my-5" align-center>
           <v-flex xs12 sm4 class="my-3">
             <div class="text-xs-center">
-              <h2 class="headline">The best way to start developing</h2>
-              <span class="subheading">Cras facilisis mi vitae nunc</span>
+              <h2 class="headline">Waarom de Kroosmaster?</h2>
             </div>
           </v-flex>
           <v-flex xs12>
@@ -40,30 +39,26 @@
                 <v-flex xs12 md4>
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
-                      <v-icon x-large class="green--text text--lighten-1">color_lens</v-icon>
+                      <v-icon x-large class="green--text text--lighten-1">data_usage</v-icon>
                     </v-card-text>
                     <v-card-title primary-title class="layout justify-center">
-                      <div class="headline text-xs-center">Material Design</div>
+                      <div class="headline text-xs-center">Van data naar inzicht</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      Met behulp van ons dashboard is het mogelijk om van 100% van alle waterlichamen in Nederland de warmte, diepte en algengroei te bekijken. Momenteel is dat nog pas 8% van alle waterlichamen.
                     </v-card-text>
                   </v-card>
                 </v-flex>
                 <v-flex xs12 md4>
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
-                      <v-icon x-large class="green--text text--lighten-1">flash_on</v-icon>
+                      <v-icon x-large class="green--text text--lighten-1">satellite</v-icon>
                     </v-card-text>
                     <v-card-title primary-title class="layout justify-center">
-                      <div class="headline">Fast development</div>
+                      <div class="headline">Een blik vanuit de ruimte</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      De gegevens in het dashboard wordt voornamelijk samengesteld aan de hand van data uit de ruimte. Met name de Sentinel-1, -2 en -3-satellieten voorzien onze systemen van informatie.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -73,12 +68,10 @@
                       <v-icon x-large class="green--text text--lighten-1">build</v-icon>
                     </v-card-text>
                     <v-card-title primary-title class="layout justify-center">
-                      <div class="headline text-xs-center">Completely Open Sourced</div>
+                      <div class="headline text-xs-center">Ingrijpen voor het mis gaat</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      Door continu de gezondheid van alle waterlichamen te monitoren, kan er tijdig ingegrepen worden om te voorkomen dat slechte waterkwaliteit naar andere gebieden overvloeit.
                     </v-card-text>
                   </v-card>
                 </v-flex>
