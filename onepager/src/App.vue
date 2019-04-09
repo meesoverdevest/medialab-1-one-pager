@@ -91,7 +91,7 @@
           </v-flex>
           <v-flex xs12>
             <v-container grid-list-xl>
-              <v-layout row wrap align-center>
+              <v-layout row wrap>
                 <v-flex xs12 md3>
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
@@ -176,7 +176,7 @@
           <v-layout row wrap justify-center class="my-5">
             <v-flex xs12 sm4>
               <v-card class="elevation-0 transparent">
-                <v-card-title primary-title class="layout justify-center">
+                <v-card-title primary-title class="layout">
                   <div class="headline">Over A.S.O.</div>
                 </v-card-title>
                 <v-card-text>
@@ -186,10 +186,10 @@
             </v-flex>
             <v-flex xs12 sm4 offset-sm1>
               <v-card class="elevation-0 transparent">
-                <v-card-title primary-title class="layout justify-center">
-                  <div class="headline">Contact</div>
+                <v-card-title primary-title>
+                  <h2 class="headline">Contact</h2>
+                  <div class="subheading">Geïnteresseerd, of heb je een vraag?</div>
                 </v-card-title>
-                <v-card-text>Geïnteresseerd, of heb je een vraag?</v-card-text>
                 <v-list class="transparent">
                   <v-list-tile>
                     <v-list-tile-action>
