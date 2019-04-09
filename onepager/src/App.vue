@@ -58,7 +58,7 @@
                       <div class="headline">Een blik vanuit de ruimte</div>
                     </v-card-title>
                     <v-card-text>
-                      De gegevens in het dashboard wordt voornamelijk samengesteld aan de hand van data uit de ruimte. Met name de Sentinel-1, -2 en -3-satellieten voorzien onze systemen van informatie.
+                      De gegevens in het dashboard worden voornamelijk samengesteld aan de hand van data uit de ruimte. Met name de Sentinel-1, -2 en -3-satellieten voorzien onze systemen van informatie.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -85,7 +85,7 @@
         <v-layout column wrap class="my-5" align-center>
           <v-flex xs12 sm4 class="my-3">
             <div class="text-xs-center">
-              <h2 class="headline">Our Team</h2>
+              <h2 class="headline">Team</h2>
               <span class="subheading">We make it possible!</span>
             </div>
           </v-flex>
@@ -135,9 +135,7 @@
                       <div class="headline text-xs-center">Mees Overdevest</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      Ik ben een mediatechnoloog met een voorkeur voor Javascript development. Met de Kroosmaster hoop ik bij te kunnen dragen aan vooruitstrevende stappen op het gebied van techniek, die wordt gebruikt door de waterschappen.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -189,16 +187,16 @@
             <v-flex xs12 sm4 offset-sm1>
               <v-card class="elevation-0 transparent">
                 <v-card-title primary-title class="layout justify-center">
-                  <div class="headline">Contact us</div>
+                  <div class="headline">Contact</div>
                 </v-card-title>
-                <v-card-text>Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.</v-card-text>
+                <v-card-text>Geïnteresseerd, of heb je een vraag?</v-card-text>
                 <v-list class="transparent">
                   <v-list-tile>
                     <v-list-tile-action>
                       <v-icon class="green--text text--lighten-1">phone</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>777-867-5309</v-list-tile-title>
+                      <v-list-tile-title>010-7944000</v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                   <v-list-tile>
@@ -206,7 +204,7 @@
                       <v-icon class="green--text text--lighten-1">place</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>Chicago, US</v-list-tile-title>
+                      <v-list-tile-title>Wijnhaven 99, Rotterdam</v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                   <v-list-tile>
@@ -214,7 +212,7 @@
                       <v-icon class="green--text text--lighten-1">email</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>john@vuetifyjs.com</v-list-tile-title>
+                      <v-list-tile-title>contact@aso.com</v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                 </v-list>
