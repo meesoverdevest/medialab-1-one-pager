@@ -119,9 +119,7 @@
                       <div class="headline">Yordi van Leeuwen</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                        UI UX designer die altijd wel commentaar heeft en ziet hoe iets zal gaan uitspelen.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -155,9 +153,7 @@
                       <div class="headline text-xs-center">Dario Sanchez Martinez</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-                      Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-                      Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      Dit project heb ik vooral als onderzoeker doorgebracht. Zo wilde ik de probleemstelling door hebben, maar ook hoe remote sensing werkte.
                     </v-card-text>
                   </v-card>
                 </v-flex>
