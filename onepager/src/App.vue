@@ -236,7 +236,8 @@
         <v-layout row wrap align-center>
           <v-flex xs12>
             <div class="white--text ml-3">
-              Gemaakt door Team ASO
+              Made with
+              <v-icon class="red--text">favorite</v-icon>by Aerospace Safety Organization
             </div>
           </v-flex>
         </v-layout>
