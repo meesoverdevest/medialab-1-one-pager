@@ -1,8 +1,8 @@
 <template>
-  <v-app>
+  <v-app dark>
     <v-toolbar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>KroosMaster PRO PLUS</span>
+        <span>EcoWatch</span>
         <span class="font-weight-light">TEAM ASO</span>
       </v-toolbar-title>
     </v-toolbar>
