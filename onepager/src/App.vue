@@ -30,7 +30,7 @@
         <v-layout column wrap class="my-5" align-center>
           <v-flex xs12 sm4 class="my-3">
             <div class="text-xs-center">
-              <h2 class="headline">Waarom de Kroosmaster?</h2>
+              <h2 class="headline">Waarom de EcoWatch?</h2>
             </div>
           </v-flex>
           <v-flex xs12>
@@ -135,7 +135,7 @@
                       <div class="headline text-xs-center">Mees Overdevest</div>
                     </v-card-title>
                     <v-card-text>
-                      Ik ben een mediatechnoloog met een voorkeur voor Javascript development. Met de Kroosmaster hoop ik bij te kunnen dragen aan vooruitstrevende stappen op het gebied van techniek, die wordt gebruikt door de waterschappen.
+                      Ik ben een mediatechnoloog met een voorkeur voor Javascript development. Met de EcoWatch hoop ik bij te kunnen dragen aan vooruitstrevende stappen op het gebied van techniek, die wordt gebruikt door de waterschappen.
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -180,7 +180,7 @@
                   <div class="headline">Over A.S.O.</div>
                 </v-card-title>
                 <v-card-text>
-                  Wij van de Aerospace Safety Organization zijn een fusie tussen de opleidingen CMD en CMGT. Met de onderzoekende kwaliteiten van Yordi en Dario krijgt de techniek de beste fundering. Alle ontwerpbeslissingen zijn gebaseerd uitvoerig onderzoek, hierdoor onderscheidt Kroosmaster Pro Plus zich van alle anderen!
+                  Wij van de Aerospace Safety Organization zijn een fusie tussen de opleidingen CMD en CMGT. Met de onderzoekende kwaliteiten van Yordi en Dario krijgt de techniek de beste fundering. Alle ontwerpbeslissingen zijn gebaseerd uitvoerig onderzoek, hierdoor onderscheidt EcoWatch zich van alle anderen!
                 </v-card-text>
               </v-card>
             </v-flex>
@@ -241,7 +241,7 @@ export default {
   name: "App",
   data() {
     return {
-      title: "Kroosmaster"
+      title: "EcoWatch"
     }
   }
 };
