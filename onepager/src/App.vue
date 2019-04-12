@@ -12,7 +12,7 @@
             justify-center
             class="white--text"
           >
-            <h1 class="white--text mb-2 display-1 text-xs-center">KROOSMASTER</h1>
+            <h1 class="white--text mb-2 display-1 text-xs-center">EcoWatch</h1>
             <div class="subheading mb-3 text-xs-center font-weight-medium">Voorkom sterfte van flora en fauna met behulp van onze preventieve software!</div>
             <v-btn
               class="green lighten-1 mt-5"
@@ -103,7 +103,7 @@
                       <div class="headline text-xs-center">Joey Hoogerwerf</div>
                     </v-card-title>
                     <v-card-text>
-                      Als creatief technoloog hou ik van het werken met de nieuwste technieken. Zo haalt Kroosmaster Pro Plus zijn satellietdata op via de Google Earth Engine.
+                      Als creatief technoloog hou ik van het werken met de nieuwste technieken. Zo haalt EcoWatch zijn satellietdata op via de Google Earth Engine.
                     </v-card-text>
                   </v-card>
                 </v-flex>
