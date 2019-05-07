@@ -55,7 +55,7 @@
                       <v-icon x-large class="green--text text--lighten-1">satellite</v-icon>
                     </v-card-text>
                     <v-card-title primary-title class="layout justify-center">
-                      <div class="headline">Een blik vanuit de ruimte</div>
+                      <div class="headline text-xs-center">Een blik vanuit de ruimte</div>
                     </v-card-title>
                     <v-card-text>
                       De gegevens in het dashboard worden voornamelijk samengesteld aan de hand van data uit de ruimte. Met name de Sentinel-1, -2 en -3-satellieten voorzien onze systemen van informatie.
@@ -156,6 +156,64 @@
                   </v-card>
                 </v-flex>
 
+              </v-layout>
+            </v-container>
+          </v-flex>
+        </v-layout>
+      </section>
+      <section>
+        <v-layout column wrap class="my-5" align-center>
+          <v-flex xs12 sm4 class="my-3">
+            <div class="text-xs-center">
+              <h2 class="headline">Deliverables</h2>
+            </div>
+          </v-flex>
+          <v-flex xs12>
+            <v-container grid-list-xl>
+              <v-layout row wrap align-center>
+                <v-flex xs12 md4>
+                  <v-card class="elevation-0 transparent">
+                    <v-card-text class="text-xs-center">
+                      <v-icon x-large class="green--text text--lighten-1">people</v-icon>
+                    </v-card-text>
+                    <v-card-title primary-title class="layout justify-center">
+                      <div class="headline text-xs-center">Customer Journeys</div>
+                    </v-card-title>
+                    <v-card-text>
+                      <a download href="./assets/deliverables/customer_journey_gewenste_situatie.pdf">Gewenste situatie</a><br>
+                      <a download href="./assets/deliverables/customer_journey_huidige_situatie.pdf">Huidige situatie</a>
+                    </v-card-text>
+                  </v-card>
+                </v-flex>
+                <v-flex xs12 md4>
+                  <v-card class="elevation-0 transparent">
+                    <v-card-text class="text-xs-center">
+                      <v-icon x-large class="green--text text--lighten-1">satellite</v-icon>
+                    </v-card-text>
+                    <v-card-title primary-title class="layout justify-center">
+                      <div class="headline text-xs-center">Concept</div>
+                    </v-card-title>
+                    <v-card-text>
+                      <a download href="./assets/deliverables/eindpresentatie.jpg">Eindpresentatie</a><br>
+                      <a download href="./assets/deliverables/zwemwater_app.jpg">Zwemwater applicatie</a><br>
+                      <a href="http://dashboard.biertjesman.nl">Dashboard</a>
+                    </v-card-text>
+                  </v-card>
+                </v-flex>
+                <v-flex xs12 md4>
+                  <v-card class="elevation-0 transparent">
+                    <v-card-text class="text-xs-center">
+                      <v-icon x-large class="green--text text--lighten-1">build</v-icon>
+                    </v-card-text>
+                    <v-card-title primary-title class="layout justify-center">
+                      <div class="headline text-xs-center">Proces</div>
+                    </v-card-title>
+                    <v-card-text>
+                      <a download href="./assets/deliverables/brainstormen.jpg">Brainstormsessie</a><br>
+                      <a download href="./assets/deliverables/PosterConcept.pdf">Concept Poster</a>
+                    </v-card-text>
+                  </v-card>
+                </v-flex>
               </v-layout>
             </v-container>
           </v-flex>
