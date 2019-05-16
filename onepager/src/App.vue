@@ -180,8 +180,8 @@
                       <div class="headline text-xs-center">Customer Journeys</div>
                     </v-card-title>
                     <v-card-text>
-                      <a download href="./assets/deliverables/customer_journey_gewenste_situatie.pdf">Gewenste situatie</a><br>
-                      <a download href="./assets/deliverables/customer_journey_huidige_situatie.pdf">Huidige situatie</a>
+                      <a download href="deliverables/customer_journey_gewenste_situatie.pdf">Gewenste situatie</a><br>
+                      <a download href="deliverables/customer_journey_huidige_situatie.pdf">Huidige situatie</a>
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -194,8 +194,8 @@
                       <div class="headline text-xs-center">Concept</div>
                     </v-card-title>
                     <v-card-text>
-                      <a download href="./assets/deliverables/eindpresentatie.jpg">Eindpresentatie</a><br>
-                      <a download href="./assets/deliverables/zwemwater_app.jpg">Zwemwater applicatie</a><br>
+                      <a download href="deliverables/eindpresentatie.jpg">Eindpresentatie</a><br>
+                      <a download href="deliverables/zwemwater_app.jpg">Zwemwater applicatie</a><br>
                       <a href="http://dashboard.biertjesman.nl">Dashboard</a>
                     </v-card-text>
                   </v-card>
@@ -209,8 +209,8 @@
                       <div class="headline text-xs-center">Proces</div>
                     </v-card-title>
                     <v-card-text>
-                      <a download href="./assets/deliverables/brainstormen.jpg">Brainstormsessie</a><br>
-                      <a download href="./assets/deliverables/PosterConcept.pdf">Concept Poster</a>
+                      <a download href="deliverables/brainstormen.jpg">Brainstormsessie</a><br>
+                      <a download href="deliverables/PosterConcept.pdf">Concept Poster</a>
                     </v-card-text>
                   </v-card>
                 </v-flex>
